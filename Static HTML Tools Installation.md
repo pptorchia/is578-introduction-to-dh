@@ -23,3 +23,8 @@ bundle exec jekyll serve
   Browse to http://localhost:4000
   Looks like I have a static HTML page created Welcome to Jekyll. Looks like it is hosted on my PC.
   
+I am not able to locate the YAML (.yml) file to work with the config file or configuration of the HTML page.
+I have tried using ChatGPT but the results did not help.
+
+At this point I have been working on trying to configure GitHub to host my locally hosted webpage.
+I have once again run into the issues with my Gemfile and bundle and can't proceed beyond this step to get GitHub to host my HTMP files.
