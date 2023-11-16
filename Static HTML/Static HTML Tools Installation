@@ -7,3 +7,7 @@ Making use of the Jekyll GitHub forum, I am following the instructions to get Je
 I am not downloading and installing Ruby through the RubyInstallers for Windows.
 Ruby has been sucessfully installed.
 Following the directions on the Jekyll installation webpage, I used the Command Window to verify the Ruby version, the GCC, and Make vesrions installed.
+Jekyll Installation: Using Command Window
+Working on bundler and gems
+At this point I am stuck for some time on not being able to bundler or gems commands to work.
+I have tried to change directories, but the command can not locate Gemfile or .bundle directory.
