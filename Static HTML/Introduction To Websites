@@ -1,0 +1,9 @@
+Documenting Steps to Create HTML in Github with Github.dev functioning.
+On new PC, download and install Github Desktop version.
+Succesfully installed Github Desktop version and linked to my existing Github profile.
+The use of Github.dev functioned properly on new PC. 
+It is a shame that Github.dev issue on my orginal PC never got resolved. I feel like I am starting all the work over once again from back at the beginning of the semester because we still need to use Github.dev.
+Making use of the Jekyll GitHub forum, I am following the instructions to get Jekyll installed on my new PC.
+I am not downloading and installing Ruby through the RubyInstallers for Windows.
+Ruby has been sucessfully installed.
+Following the directions on the Jekyll installation webpage, I used the Command Window to verify the Ruby version, the GCC, and Make vesrions installed.
