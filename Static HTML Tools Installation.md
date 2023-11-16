@@ -27,4 +27,5 @@ I am not able to locate the YAML (.yml) file to work with the config file or con
 I have tried using ChatGPT but the results did not help.
 
 At this point I have been working on trying to configure GitHub to host my locally hosted webpage.
+I have created a new repository in my Github profile.
 I have once again run into the issues with my Gemfile and bundle and can't proceed beyond this step to get GitHub to host my HTMP files.
