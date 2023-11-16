@@ -1,0 +1,25 @@
+Documenting Steps to Create HTML in Github with Github.dev functioning.
+On new PC, download and install Github Desktop version.
+Succesfully installed Github Desktop version and linked to my existing Github profile.
+The use of Github.dev functioned properly on new PC. 
+It is a shame that Github.dev issue on my orginal PC never got resolved. I feel like I am starting all the work over once again from back at the beginning of the semester because we still need to use Github.dev.
+Making use of the Jekyll GitHub forum, I am following the instructions to get Jekyll installed on my new PC.
+I am not downloading and installing Ruby through the RubyInstallers for Windows.
+Ruby has been sucessfully installed.
+Following the directions on the Jekyll installation webpage, I used the Command Window to verify the Ruby version, the GCC, and Make vesrions installed.
+Jekyll Installation: Using Command Window
+Working on bundler and gems
+At this point I am stuck for some time on not being able to bundler or gems commands to work.
+I have tried to change directories, but the command can not locate Gemfile or .bundle directory.
+C:\Users\pptor>jekyll new myblog
+Running bundle install in C:/Users/pptor/myblog...
+New jekyll site installed in C:/Users/pptor/myblog.
+Build the site and make it available on a local server.
+bundle exec jekyll serve
+ Auto-regeneration: enabled for 'C:/Users/pptor/myblog'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+  To my understanding this has created a local server and this local server is running from my PC.
+  Browse to http://localhost:4000
+  Looks like I have a static HTML page created Welcome to Jekyll. Looks like it is hosted on my PC.
+  
